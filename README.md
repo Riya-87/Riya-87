@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi, I'm [Your Name] | Full-Stack Developer & AI/ML Engineer in the Making I'm a 2nd-year B.Tech student in Artificial Intelligence and Machine Learning, passionate about building intelligent web applications and exploring the intersection of software development and AI. I combine strong full-stack development skills with a growing expertise in machine learning and data analysis.</h3>
+<h3 align="center">👋 Hi, I'm [Riya Rani] | Frontend Developer & AI/ML Engineer in the Making I'm a 2nd-year B.Tech student in Artificial Intelligence and Machine Learning, passionate about building intelligent web applications and exploring the intersection of software development and AI. I combine strong full-stack development skills with a growing expertise in machine learning and data analysis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-87&label=Profile%20views&color=0e75b6&style=flat" alt="riya-87" /> </p>
 
