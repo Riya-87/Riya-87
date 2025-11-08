@@ -1,8 +1,10 @@
-<h3 align="center">👋 Hi, I'm [Riya Rani] | Full-Stack Developer & AI/ML Engineer in the Making I'm a **2nd-year B.Tech student in Artificial Intelligence and Machine Learning**, passionate about building intelligent web applications and exploring the intersection of software development and AI. I combine strong full-stack development skills with a growing expertise in machine learning and data analysis. ## 🛠️ Tech Stack **Frontend:** HTML5 | CSS3 | JavaScript | React **Backend:** Python | MySQL **Programming:** C | C++ | Python **Data & Analysis:** Pandas **Systems:** Linux ## 🚀 What I'm Up To - 🔭 Building responsive web applications with React and modern JavaScript - 🌱 Deepening my knowledge in machine learning algorithms and AI applications - 📊 Exploring data analysis and visualization with Pandas - 💡 Working on projects that bridge web development and AI/ML ## 🎯 Currently Learning Advanced machine learning techniques | Neural networks | Cloud deployment | System design --- 💼 **Open to:** Internships | Collaborations | Open Source Contributions 📫 **Let's connect:** Always excited to work on innovative projects and learn from the developer community! --- **Note:** Replace `[Your Name]` with your actual name, and feel free to customize sections based on your specific projects or interests. You can also add badges, GitHub stats, or links to your social profiles to make it more visually engaging!</h3>
+<h3 align="center">👋 Hi, I'm [Your Name] | Full-Stack Developer & AI/ML Engineer in the Making I'm a 2nd-year B.Tech student in Artificial Intelligence and Machine Learning, passionate about building intelligent web applications and exploring the intersection of software development and AI. I combine strong full-stack development skills with a growing expertise in machine learning and data analysis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-87&label=Profile%20views&color=0e75b6&style=flat" alt="riya-87" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riya-87" alt="riya-87" /></a> </p>
+
+- 📫 How to reach me **riyarani0006@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
